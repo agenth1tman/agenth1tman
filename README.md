@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! 👋
 
 <!--
 **agenth1tman/agenth1tman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Umer, an A-Levels student in Pakistan.
+
+I mostly work on games using C# and the Unity Game Engine, but now I have shifted towards Python and Machine Learning.
+
+I also use Adobe Illustrator for UI Design, and can work on GUI and Graphic Designs.
+
