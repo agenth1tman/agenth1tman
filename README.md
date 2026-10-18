@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Umer, an A-Levels student in Pakistan.
 
-I mostly work on games using C# and the Unity Game Engine, but now I have shifted towards Python and Machine Learning.
+I mostly work on games using C# and the Unity Game Engine, but now I have shifted towards Python as well.
 
 I also use Adobe Illustrator for UI Design, and can work on GUI and Graphic Designs.
 
