@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Umer, an A-Levels student in Pakistan.
+I'm Chaudhry Muhammad Umer Shahid, an A-Levels student in Pakistan.
 
 I mostly work on games using C# and the Unity Game Engine, but now I have shifted towards Python as well.
 
